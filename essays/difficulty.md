@@ -1,6 +1,3 @@
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 First Impressions of TypeScript: A New Journey
 As someone new to TypeScript, I have found it to be a refreshing and powerful addition to my programming toolkit. TypeScript, developed by Microsoft, is a superset of JavaScript that introduces static typing, which has significantly enhanced my development experience. Here, I will share my initial impressions of TypeScript and compare it to other programming languages I have encountered.
 
