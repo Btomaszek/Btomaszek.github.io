@@ -1,54 +1,31 @@
----
-layout: essay
-type: essay
-title: "The difficult things will always be difficult"
-# All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: true
-labels:
-  - Engineering
----
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+First Impressions of TypeScript: A New Journey
+As someone new to TypeScript, I have found it to be a refreshing and powerful addition to my programming toolkit. TypeScript, developed by Microsoft, is a superset of JavaScript that introduces static typing, which has significantly enhanced my development experience. Here, I will share my initial impressions of TypeScript and compare it to other programming languages I have encountered.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Discovering Static Typing
+One of the most striking features of TypeScript is its static typing. Unlike JavaScript, where types are determined at runtime, TypeScript allows me to define types explicitly. This has been a game-changer for me, as it enables the compiler to catch type-related errors during development, reducing the likelihood of runtime errors. This feature is reminiscent of statically-typed languages like Java and C#, which also emphasize type safety and early error detection.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Enhanced Development Experience
+TypeScript’s static typing and type inference capabilities have significantly improved my development experience. The enhanced tooling and IDE support, such as autocompletion, refactoring, and navigation, make coding more efficient and enjoyable. This level of support is comparable to what I have experienced with languages like Java and C#, where robust development environments are the norm.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Seamless Transition from JavaScript
+One of the aspects I appreciate most about TypeScript is its compatibility with JavaScript. Since TypeScript is a superset of JavaScript, any valid JavaScript code is also valid TypeScript code. This compatibility has made the transition smooth and painless. I can gradually introduce TypeScript into existing JavaScript projects, allowing for a flexible and incremental adoption process.
 
-Here's what I think: the difficult things will always be difficult.
+Advanced Language Features
+TypeScript introduces several advanced language features that have enhanced my coding capabilities. These include:
 
-## In the context of programming
+Interfaces and Type Aliases: These allow me to define custom types and enforce contracts within my code, improving readability and maintainability.
+Generics: Generics enable the creation of reusable and type-safe components, making my code more modular and flexible.
+Decorators: Decorators provide a way to add metadata to classes and methods, similar to annotations in Java or attributes in C#, adding a layer of functionality and organization to my code.
+These features make TypeScript more expressive and powerful, akin to languages like Java and C#.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Learning Curve and Adaptation
+As someone coming from dynamically-typed languages like JavaScript and Python, adapting to TypeScript’s static typing introduced a learning curve. However, the benefits of early error detection and improved code quality have made the effort worthwhile. Developers with experience in statically-typed languages like Java or C# may find TypeScript more intuitive and easier to adopt.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Community and Ecosystem
+TypeScript boasts a rapidly growing community and a rich ecosystem of libraries and frameworks. Popular frameworks like Angular are built with TypeScript, and many other libraries offer TypeScript type definitions. This widespread adoption and community support have made TypeScript a strong contender in the modern web development landscape.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Conclusion
+In conclusion, my first impressions of TypeScript have been overwhelmingly positive. Its combination of static typing, enhanced tooling, advanced language features, and compatibility with JavaScript make it a valuable addition to any developer’s toolkit. While it may introduce a learning curve, the long-term benefits of improved code quality and maintainability make TypeScript a worthwhile investment. As I continue to explore and learn more about TypeScript, I am excited about the possibilities it offers for building robust and scalable applications.
