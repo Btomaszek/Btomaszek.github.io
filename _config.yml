@@ -11,6 +11,10 @@ baseurl: ""
 techfolio-theme: default.css
 ## Specify the formatting for triple backquote code sections.
 rouge-theme: github.css
+## Change title to say SV
+bio-page-title: Resume
+# Change bio page theme to say bio/cv.html
+bio-theme: bio/resume.html
 
 # DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
 markdown: kramdown
