@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vm.jpg
+image: img/Vendingmach.jpg
 title: "Vending Machine"
 date: 09/09/2023
 published: false
