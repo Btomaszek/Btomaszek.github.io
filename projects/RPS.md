@@ -12,11 +12,13 @@ labels:
 summary: "An implementation of Rock, Paper, Scissors that I created with JGrasp.  This was made for ICS 211 to show our understanding of GUIs in Java.."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/RPSgame.png">
 
-This classic game of rock, paper, scissors is played by the user against the computer.
+An implementation of Rock, Paper, Scissors that I created with JGrasp.  This was made for ICS 211 to show our understanding of GUIs in Java.
 </pre>
+
+Here is some code that I used for this game:
+<img class="img-fluid" src="../img/RPSCpuGenfx.png">
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
