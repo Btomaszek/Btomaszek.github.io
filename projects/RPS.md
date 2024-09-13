@@ -8,7 +8,7 @@ published: true
 labels:
   - JGrasp
   - Java
-  - GitHub
+  - Game
 summary: "An implementation of Rock, Paper, Scissors that I created with JGrasp.  This was made for ICS 211 to show our understanding of GUIs in Java.."
 ---
 
