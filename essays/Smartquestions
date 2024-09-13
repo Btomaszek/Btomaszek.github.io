@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "Importance of Questions"
+# All dates must be YYYY-MM-DD format!
+date: 2024-9-12
+published: true
+labels:
+  - Software Engineering
+  - Typescript
+---
+
+
+In the realm of software engineering, the ability to ask smart questions is a crucial skill. It not only facilitates efficient problem-solving but also fosters effective communication and collaboration. .
+
+What is a smart question?  We use a site called Stackoverflow where programmers can ask questions and give answers to those who need them.  There were many examples of good questions and bad questions.  Here is an example of a good question where the user asks "Convert object array to hash map, indexed by an attribute value of the Object".  This is a smart question.  It gives context, detailed code, and error messages while having a specific title.  
+<img width="100px" class="rounded float-start pe-4" src="../img/thought.jpg">
+
+A bad question?  It's usually a question that has no context and doesn't give you any direction.  An example of a bad question would be "Java homework help" that I found while searching on stackoverflow.
+
+<img width="100px" class="rounded float-start pe-4" src="../img/thought.jpg">
+
