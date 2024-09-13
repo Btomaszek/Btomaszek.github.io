@@ -4,7 +4,7 @@ type: essay
 title: "Exploring Typescript: A Newbies View"
 # All dates must be YYYY-MM-DD format!
 date: 2024-9-12
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
