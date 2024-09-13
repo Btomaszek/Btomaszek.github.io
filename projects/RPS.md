@@ -4,7 +4,7 @@ type: project
 image: img/RPS.jpg
 title: "Rock, Paper, Scissors Game"
 date: 10/172023
-published: false
+published: true
 labels:
   - JGrasp
   - Java
